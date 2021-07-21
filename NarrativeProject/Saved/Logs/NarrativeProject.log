@@ -814,3 +814,11 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.07.21-13.34.00:589][174]Cmd: MAP CHECKDEP NOCLEARLOG
 [2021.07.21-13.34.00:589][174]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.132ms to complete.
 [2021.07.21-13.34.00:589][174]LogFileHelpers: Loading map 'GreyBox2' took 0.204
+[2021.07.21-14.02.35:771][831]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GreyBox2" FILE="D:/UE4/Narrative Design/NarrativeDesign2.0/NarrativeProject/Content/GreyBox2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.07.21-14.02.35:777][831]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2021.07.21-14.02.35:905][831]LogSavePackage: Moving 'D:/UE4/Narrative Design/NarrativeDesign2.0/NarrativeProject/Saved/GreyBox2A6FAE82A4DC63660CBE4DEA3E4E508A9.tmp' to 'D:/UE4/Narrative Design/NarrativeDesign2.0/NarrativeProject/Content/GreyBox2.umap'
+[2021.07.21-14.02.35:916][831]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GreyBox2_BuiltData" FILE="D:/UE4/Narrative Design/NarrativeDesign2.0/NarrativeProject/Content/GreyBox2_BuiltData.uasset" SILENT=true
+[2021.07.21-14.02.41:883][831]LogSavePackage: Moving 'D:/UE4/Narrative Design/NarrativeDesign2.0/NarrativeProject/Saved/GreyBox2_BuiltData623871244D25C8C8FC9C38AEF26F7E9D.tmp' to 'D:/UE4/Narrative Design/NarrativeDesign2.0/NarrativeProject/Content/GreyBox2_BuiltData.uasset'
+[2021.07.21-14.02.42:152][831]AssetCheck: New page: Asset Save: multiple assets
+[2021.07.21-14.02.42:152][831]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/GreyBox2_BuiltData.GreyBox2_BuiltData
+[2021.07.21-14.02.42:152][831]LogContentValidation: Display: Validating World /Game/GreyBox2.GreyBox2
